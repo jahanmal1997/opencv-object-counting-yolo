@@ -16,7 +16,7 @@ Another way to run is using Google Colab link. You don't have to install anythin
 
 Link for the Google Colab link:
 
-https://colab.research.google.com/drive/19dEWyu30Ryp24DOfqmOTLFpcniv9s9DV?usp=sharing
+https://colab.research.google.com/drive/1pUzP60JgUc-Z6La1I7N7Li6X4UIj9BC2?usp=sharing
 
 # Requirements
 
